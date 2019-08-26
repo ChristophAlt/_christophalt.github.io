@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Christoph Alt</title>
+    <link>https://christophalt.github.io/publication_types/1/</link>
+      <atom:link href="https://christophalt.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://christophalt.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://christophalt.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Fine-Tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction</title>
+      <link>https://christophalt.github.io/publication/fine-tuning-pre-trained-transformer-language-models-to-distantly-supervised-relation-extraction/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophalt.github.io/publication/fine-tuning-pre-trained-transformer-language-models-to-distantly-supervised-relation-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Relation Extraction by Pre-Trained Language Representations</title>
+      <link>https://christophalt.github.io/publication/improving-relation-extraction-by-pre-trained-language-representations/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophalt.github.io/publication/improving-relation-extraction-by-pre-trained-language-representations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mEx - an Information Extraction Platform for German Medical Text</title>
+      <link>https://christophalt.github.io/publication/mex-an-information-extraction-platform-for-german-medical-text/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://christophalt.github.io/publication/mex-an-information-extraction-platform-for-german-medical-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Explanations From Language Data</title>
+      <link>https://christophalt.github.io/publication/learning-explanations-from-language-data/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://christophalt.github.io/publication/learning-explanations-from-language-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

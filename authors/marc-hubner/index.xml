@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc Hübner | Christoph Alt</title>
+    <link>https://christophalt.github.io/authors/marc-hubner/</link>
+      <atom:link href="https://christophalt.github.io/authors/marc-hubner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc Hübner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://christophalt.github.io/img/icon-192.png</url>
+      <title>Marc Hübner</title>
+      <link>https://christophalt.github.io/authors/marc-hubner/</link>
+    </image>
+    
+    <item>
+      <title>Fine-Tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction</title>
+      <link>https://christophalt.github.io/publication/fine-tuning-pre-trained-transformer-language-models-to-distantly-supervised-relation-extraction/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://christophalt.github.io/publication/fine-tuning-pre-trained-transformer-language-models-to-distantly-supervised-relation-extraction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
