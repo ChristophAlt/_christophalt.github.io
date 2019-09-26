@@ -5,7 +5,7 @@
     <link>https://christophalt.github.io/authors/</link>
       <atom:link href="https://christophalt.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2019 07:38:43 +0200</lastBuildDate>
     <image>
       <url>https://christophalt.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,15 +15,23 @@
     <item>
       <title>Christoph Alt</title>
       <link>https://christophalt.github.io/authors/christoph-alt/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Sep 2019 07:38:43 +0200</pubDate>
       <guid>https://christophalt.github.io/authors/christoph-alt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Harbecke</title>
+      <link>https://christophalt.github.io/authors/david-harbecke/</link>
+      <pubDate>Thu, 26 Sep 2019 07:38:43 +0200</pubDate>
+      <guid>https://christophalt.github.io/authors/david-harbecke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leonhard Hennig</title>
       <link>https://christophalt.github.io/authors/leonhard-hennig/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Sep 2019 07:38:43 +0200</pubDate>
       <guid>https://christophalt.github.io/authors/leonhard-hennig/</guid>
       <description></description>
     </item>
@@ -31,9 +39,26 @@
     <item>
       <title>Marc Hübner</title>
       <link>https://christophalt.github.io/authors/marc-hubner/</link>
-      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Sep 2019 07:38:43 +0200</pubDate>
       <guid>https://christophalt.github.io/authors/marc-hubner/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Schwarzenberg</title>
+      <link>https://christophalt.github.io/authors/robert-schwarzenberg/</link>
+      <pubDate>Thu, 26 Sep 2019 07:38:43 +0200</pubDate>
+      <guid>https://christophalt.github.io/authors/robert-schwarzenberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://christophalt.github.io/authors/admin/</link>
+      <pubDate>Tue, 27 Aug 2019 20:04:21 +0200</pubDate>
+      <guid>https://christophalt.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD student and researcher in the natural language understanding (NLU) research group of the German Research Center for AI&amp;rsquo;s Speech and Language Technology lab in Berlin. My main research interest include sample-efficient information extraction, including transfer-learning, multi-task learning, and few-shot learning.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -58,31 +83,6 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://christophalt.github.io/authors/roland-roller/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>David Harbecke</title>
-      <link>https://christophalt.github.io/authors/david-harbecke/</link>
-      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://christophalt.github.io/authors/david-harbecke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Schwarzenberg</title>
-      <link>https://christophalt.github.io/authors/robert-schwarzenberg/</link>
-      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://christophalt.github.io/authors/robert-schwarzenberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://christophalt.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://christophalt.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD student and researcher in the natural language understanding (NLU) research group of the German Research Center for AI&amp;rsquo;s Speech and Language Technology lab in Berlin. My main research interest include sample-efficient information extraction, including transfer-learning, multi-task learning, and few-shot learning.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
