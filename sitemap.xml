@@ -68,16 +68,6 @@
   </url>
   
   <url>
-    <loc>https://christophalt.github.io/authors/admin/</loc>
-    <lastmod>2019-08-27T20:04:21+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://christophalt.github.io/post/neural-relation-extraction-part-1/</loc>
-    <lastmod>2019-08-27T20:04:21+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://christophalt.github.io/publication/fine-tuning-pre-trained-transformer-language-models-to-distantly-supervised-relation-extraction/</loc>
     <lastmod>2019-07-29T00:00:00+00:00</lastmod>
   </url>
@@ -110,6 +100,10 @@
   <url>
     <loc>https://christophalt.github.io/publication/learning-explanations-from-language-data/</loc>
     <lastmod>2018-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophalt.github.io/authors/admin/</loc>
   </url>
   
   <url>

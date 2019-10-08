@@ -53,15 +53,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://christophalt.github.io/authors/admin/</link>
-      <pubDate>Tue, 27 Aug 2019 20:04:21 +0200</pubDate>
-      <guid>https://christophalt.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD student and researcher in the natural language understanding (NLU) research group of the German Research Center for AI&amp;rsquo;s Speech and Language Technology lab in Berlin. My main research interest include sample-efficient information extraction, including transfer-learning, multi-task learning, and few-shot learning.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>He Wang</title>
       <link>https://christophalt.github.io/authors/he-wang/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
@@ -83,6 +74,15 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://christophalt.github.io/authors/roland-roller/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://christophalt.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://christophalt.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD student and researcher in the natural language understanding (NLU) research group of the German Research Center for AI&amp;rsquo;s Speech and Language Technology lab in Berlin. My main research interest include sample-efficient information extraction, including transfer-learning, multi-task learning, and few-shot learning.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
