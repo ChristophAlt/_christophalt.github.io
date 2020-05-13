@@ -5,7 +5,7 @@
     <link>https://christophalt.github.io/authors/</link>
       <atom:link href="https://christophalt.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2019 07:38:43 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://christophalt.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Aleksandra Gabryszak</title>
+      <link>https://christophalt.github.io/authors/aleksandra-gabryszak/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://christophalt.github.io/authors/aleksandra-gabryszak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Christoph Alt</title>
       <link>https://christophalt.github.io/authors/christoph-alt/</link>
-      <pubDate>Thu, 26 Sep 2019 07:38:43 +0200</pubDate>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://christophalt.github.io/authors/christoph-alt/</guid>
       <description></description>
     </item>
@@ -23,7 +31,7 @@
     <item>
       <title>David Harbecke</title>
       <link>https://christophalt.github.io/authors/david-harbecke/</link>
-      <pubDate>Thu, 26 Sep 2019 07:38:43 +0200</pubDate>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://christophalt.github.io/authors/david-harbecke/</guid>
       <description></description>
     </item>
@@ -31,7 +39,7 @@
     <item>
       <title>Leonhard Hennig</title>
       <link>https://christophalt.github.io/authors/leonhard-hennig/</link>
-      <pubDate>Thu, 26 Sep 2019 07:38:43 +0200</pubDate>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://christophalt.github.io/authors/leonhard-hennig/</guid>
       <description></description>
     </item>

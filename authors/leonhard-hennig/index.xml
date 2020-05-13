@@ -5,7 +5,7 @@
     <link>https://christophalt.github.io/authors/leonhard-hennig/</link>
       <atom:link href="https://christophalt.github.io/authors/leonhard-hennig/index.xml" rel="self" type="application/rss+xml" />
     <description>Leonhard Hennig</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2019 07:38:43 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://christophalt.github.io/img/icon-192.png</url>
       <title>Leonhard Hennig</title>
@@ -13,26 +13,42 @@
     </image>
     
     <item>
+      <title>Probing Linguistic</title>
+      <link>https://christophalt.github.io/publication/probing-linguistic/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://christophalt.github.io/publication/probing-linguistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tacred Revisited</title>
+      <link>https://christophalt.github.io/publication/tacred-revisited/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://christophalt.github.io/publication/tacred-revisited/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Layerwise Relevance Visualization in Convolutional Text Graph Classifiers</title>
-      <link>https://christophalt.github.io/publication/layerwise-relevance-visualization-in-convolutional-text-graph-classifiers/</link>
+      <link>https://christophalt.github.io/publication/layerwise-relevance/</link>
       <pubDate>Thu, 26 Sep 2019 07:38:43 +0200</pubDate>
-      <guid>https://christophalt.github.io/publication/layerwise-relevance-visualization-in-convolutional-text-graph-classifiers/</guid>
+      <guid>https://christophalt.github.io/publication/layerwise-relevance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fine-Tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction</title>
-      <link>https://christophalt.github.io/publication/fine-tuning-pre-trained-transformer-language-models-to-distantly-supervised-relation-extraction/</link>
+      <link>https://christophalt.github.io/publication/fine-tuning/</link>
       <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://christophalt.github.io/publication/fine-tuning-pre-trained-transformer-language-models-to-distantly-supervised-relation-extraction/</guid>
+      <guid>https://christophalt.github.io/publication/fine-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improving Relation Extraction by Pre-Trained Language Representations</title>
-      <link>https://christophalt.github.io/publication/improving-relation-extraction-by-pre-trained-language-representations/</link>
+      <link>https://christophalt.github.io/publication/improving-relation/</link>
       <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://christophalt.github.io/publication/improving-relation-extraction-by-pre-trained-language-representations/</guid>
+      <guid>https://christophalt.github.io/publication/improving-relation/</guid>
       <description></description>
     </item>
     
