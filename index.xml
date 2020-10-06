@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Bootstrapping Named Entity Recognition in E-Commerce with Positive Unlabeled Learning</title>
+      <link>https://christophalt.github.io/publication/bootstrapping-ner/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://christophalt.github.io/publication/bootstrapping-ner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Considering Likelihood in NLP Classification Explanations with Occlusion and Language Modeling</title>
       <link>https://christophalt.github.io/publication/considering-likelihood/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
@@ -74,6 +82,30 @@
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://christophalt.github.io/publication/learning-explanations/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://christophalt.github.io/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0100</pubDate>
+      <guid>https://christophalt.github.io/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[28/06/2020]&lt;/strong&gt; I submitted my PhD thesis titled &amp;ldquo;Neural Sequential Transfer Learning for Relation Extraction&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[12/05/2020]&lt;/strong&gt; Our paper &lt;a href=&#34;https://christophalt.github.io/publication/bootstrapping-ner/&#34;&gt;&amp;ldquo;Bootstrapping Named Entity Recognition in E-Commerce with Positive Unlabeled Learning&amp;rdquo;&lt;/a&gt; got accepted at ECNLP @ ACL 2020.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[17/04/2020]&lt;/strong&gt; Our paper &lt;a href=&#34;https://christophalt.github.io/publication/considering-likelihood/&#34;&gt;&amp;ldquo;Considering Likelihood in NLP Classification Explanations with Occlusion and Language Modeling&amp;rdquo;&lt;/a&gt; got accepted at ACL 2020 Student Research Workshop.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[04/04/2020]&lt;/strong&gt; Our paper &lt;a href=&#34;https://christophalt.github.io/publication/tacred-revisited/&#34;&gt;&amp;ldquo;TACRED Revisited: A Thorough Evaluation of the TACRED Relation Extraction Task&amp;rdquo;&lt;/a&gt; got accepted at ACL 2020.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[04/04/2020]&lt;/strong&gt; Our paper &lt;a href=&#34;https://christophalt.github.io/publication/probing-linguistic/&#34;&gt;&amp;ldquo;Probing Linguistic Features of Sentence-level Representations in Neural Relation Extraction&amp;rdquo;&lt;/a&gt; got accepted at ACL 2020.&lt;/p&gt;
+
+
+</description>
     </item>
     
   </channel>
