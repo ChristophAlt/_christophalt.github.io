@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>PhD thesis defense: Neural sequential transfer learning for relation extraction</title>
+      <link>https://christophalt.github.io/talk/seq-transfer-re/</link>
+      <pubDate>Mon, 02 Nov 2020 11:18:33 +0100</pubDate>
+      <guid>https://christophalt.github.io/talk/seq-transfer-re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards a better understanding undestanding of neural relation extraction</title>
       <link>https://christophalt.github.io/talk/towards-understanding/</link>
       <pubDate>Mon, 02 Nov 2020 11:18:33 +0100</pubDate>
@@ -106,7 +114,7 @@
 
 
 
-&lt;p&gt;&lt;strong&gt;[30/11/2020]&lt;/strong&gt; I successfully defended my PhD thesis! 🥳&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[30/11/2020]&lt;/strong&gt; I successfully defended my PhD thesis: &lt;a href=&#34;https://christophalt.github.io/talk/seq-transfer-re/&#34;&gt;&amp;ldquo;Neural sequential transfer learning for relation extraction&amp;rdquo;&lt;/a&gt;! 🥳&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[29/10/2020]&lt;/strong&gt; I gave a research talk &lt;a href=&#34;https://christophalt.github.io/talk/towards-understanding/&#34;&gt;&amp;ldquo;Towards a better understanding of neural relation extraction&amp;rdquo;&lt;/a&gt; at NEC Labs Europe.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[28/06/2020]&lt;/strong&gt; I submitted my PhD thesis titled &amp;ldquo;Neural Sequential Transfer Learning for Relation Extraction&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[12/05/2020]&lt;/strong&gt; Our paper &lt;a href=&#34;https://christophalt.github.io/publication/bootstrapping-ner/&#34;&gt;&amp;ldquo;Bootstrapping Named Entity Recognition in E-Commerce with Positive Unlabeled Learning&amp;rdquo;&lt;/a&gt; got accepted at ECNLP @ ACL 2020.&lt;/p&gt;
